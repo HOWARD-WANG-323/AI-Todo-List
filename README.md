@@ -13,3 +13,11 @@ This project is an AI-powered to-do list web application. It uses the OpenAI API
 - **OpenAI API Key**: You will need to create a `.env` file at the root of your project and specify your OpenAI API key. For example:
   ```bash
   REACT_APP_OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# Installation
+
+- **Install Dependencies:
+  ```bash
+  npm install
+- **strat the project:
+  ```bash
+  npm start
