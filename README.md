@@ -21,3 +21,6 @@ This project is an AI-powered to-do list web application. It uses the OpenAI API
 - **strat the project:
   ```bash
   npm start
+# Additional Note
+- Before sharing or deploying your application, be mindful of your API key’s security.
+- If you encounter any issues, double-check that your .env file is correctly set and that you’ve restarted your server after making changes.
